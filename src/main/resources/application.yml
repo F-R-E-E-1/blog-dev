@@ -1,0 +1,8 @@
+spring:
+  thymeleaf:
+    mode: HTML
+  profiles:
+#    指定配置
+    active: dev
+
+comment.avatar: /images/avatar.jpg
